@@ -137,7 +137,6 @@ mcp_agent/
 │       └── state_reducers.py    # State management utilities
 ├── interactive_chat.py          # Interactive chat interface
 ├── main.py                      # Basic usage example
-├── todo_chat.py                 # Todo-specific chat example
 ├── pyproject.toml              # Project configuration
 ├── .env                        # Environment variables (create this)
 ├── .gitignore                  # Git ignore rules
